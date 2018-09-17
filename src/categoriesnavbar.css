@@ -1,0 +1,25 @@
+.categories {
+  margin-right: 200px;
+}
+.bm-burger-button {
+  display: none;
+}
+.btn-toggle {
+  display: flex;
+  align-items: flex-end;
+}
+
+.btn-toggle :hover {
+  cursor: pointer;
+}
+.btn-toggle {
+  width: 100px;
+}
+.navbar-toogle-sidebar {
+  height: 100%;
+  width: 100%;
+}
+.dropdown-meu-item:hover .drop-down-menu {
+  display: flex;
+}
+

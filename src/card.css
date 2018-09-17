@@ -1,0 +1,8 @@
+.heart-logo :hover {
+  color: red;
+  cursor: pointer;
+}
+.share-logo :hover {
+  color: blue;
+  cursor: pointer;
+}
