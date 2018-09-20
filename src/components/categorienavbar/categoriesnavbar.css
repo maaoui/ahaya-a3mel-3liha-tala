@@ -1,0 +1,36 @@
+.btn-toggle {
+  height: 40px;
+  width: 75px;
+}
+.navbar.navbar-dark .navbar-nav .nav-item .nav-link {
+  color: black;
+}
+.categories {
+  display: flex;
+}
+.dropdown-meu-item {
+  font-size: 15px;
+}
+.bm-burger-button {
+  display: none;
+}
+.btn-toggle {
+  display: flex;
+  align-items: flex-end;
+}
+
+.btn-toggle :hover {
+  cursor: pointer;
+}
+
+.navbar-toogle-sidebar {
+  height: 100%;
+  width: 100%;
+}
+.dropdown-meu-item:hover .drop-down-menu {
+  display: flex;
+}
+.navbar.navbar-dark .breadcrumb .nav-item .nav-link:hover,
+.navbar.navbar-dark .navbar-nav .nav-item .nav-link:hover {
+  color: rgba(16, 2, 2, 0.7);
+}

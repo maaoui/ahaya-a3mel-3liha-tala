@@ -1,0 +1,12 @@
+.navbar-dark .navbar-brand {
+  color: black;
+  font-family: "Black And White Picture", sans-serif;
+}
+.navbar-dark .navbar-brand:focus,
+.navbar-dark .navbar-brand:hover {
+  color: rgba(16, 2, 2, 0.7);
+}
+.navbar.navbar-dark .breadcrumb .nav-item.active > .nav-link:hover,
+.navbar.navbar-dark .navbar-nav .nav-item.active > .nav-link:hover {
+  color: rgba(19, 2, 2, 0.7);
+}

@@ -1,0 +1,93 @@
+.heart-logo :hover {
+  color: red;
+  cursor: pointer;
+}
+.share-logo :hover {
+  color: blue;
+  cursor: pointer;
+}
+.right-card-items {
+  display: flex;
+  justify-content: space-around;
+}
+.social-media-btn {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin: 4%;
+  border: 0.5px solid white;
+  cursor: pointer;
+  box-shadow: 3px 3px 6px #888888;
+}
+
+.facebook-icon {
+  color: white;
+  background-color: #3b5998;
+}
+.twitter-icon {
+  background-color: #55acee;
+}
+.google-plus-icon {
+  color: white;
+  background-color: #dd4b39;
+}
+.linked-in-icon {
+  color: white;
+  background-color: #578daa;
+}
+.instagram-icon {
+  color: white;
+  background-color: #2d5e86;
+}
+.pinterest-icon {
+  color: white;
+  background-color: #c73022;
+}
+.youtube-icon {
+  color: white;
+  background-color: #ed3c30;
+}
+.driblle-icon {
+  color: white;
+  background-color: #ed5589;
+}
+.vk-icon {
+  color: white;
+  background-color: #4c75a3;
+}
+.stack-over-flow {
+  color: white;
+  background-color: #ffac44;
+}
+.slack-icon {
+  color: white;
+  background-color: #56b68b;
+}
+.github-icon {
+  color: white;
+  background-color: #333333;
+}
+.comments-icon {
+  color: white;
+  background-color: #46cfc0;
+}
+.email-icon {
+  color: white;
+  background-color: #4b515d;
+}
+.hvr-grow {
+  display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+}
+
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+  transform: scale(1.1);
+}
